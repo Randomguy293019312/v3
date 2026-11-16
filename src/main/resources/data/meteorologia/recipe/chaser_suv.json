@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "IGI",
+    "IFI",
+    "CIC"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "F": {
+      "item": "minecraft:blast_furnace"
+    },
+    "C": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "id": "meteorologia:chaser_suv",
+    "count": 1
+  }
+}
